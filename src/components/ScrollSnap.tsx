@@ -1,7 +1,11 @@
-import React from "react";
+import Projects from "./Projects";
 
 const ScrollSnap = () => {
-  return <div>ScrollSnap</div>;
+  return (
+    <>
+      <Projects />
+    </>
+  );
 };
 
 export default ScrollSnap;
