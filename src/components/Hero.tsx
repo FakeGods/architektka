@@ -7,7 +7,7 @@ const Hero = () => {
         <p>A beginner architektka from Wrocław, Poland.</p>
         <ul>
           <img
-            src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,docker,github,"
+            src="https://skillicons.dev/icons?i=autocad,blender,ai,ps,unreal"
             alt="skill-icon"
           />
         </ul>
