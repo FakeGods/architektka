@@ -7,7 +7,7 @@ import Nav from "./Nav";
 function ScrollSnap() {
   return (
     <>
-      <div className="relative h-screen flex-col gap-6 snap-y snap-mandatory">
+      <div className="relative h-screen flex-col gap-6 snap-y snap-mandatory w-screen overflow-scroll">
         <Nav />
         <section
           id="hero"
